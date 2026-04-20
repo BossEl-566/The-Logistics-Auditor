@@ -10,6 +10,14 @@ Further analysis at the product level reveals that bulky and logistics-intensive
 
 ## B. Project Links
 
-- Notebook: [Your Colab or GitHub Notebook Link]
+- Notebook: (https://github.com/BossEl-566/The-Logistics-Auditor.git)
 - Dashboard: [Your Tableau Public Link]
 - Presentation:(https://public.tableau.com/app/profile/elliot.datsomor/viz/DeliveryPerformanceAuditImpactofLogisticsonCustomerSatisfaction/Dashboard1?publish=yes)
+
+## C. Technical Explanation
+
+### Data Cleaning
+The dataset was sourced from multiple relational CSV files and required careful preprocessing. I joined the Orders, Customers, and Reviews tables using appropriate keys (`order_id` and `customer_id`) while ensuring that no duplicate rows were introduced. Since the reviews dataset contained multiple entries per order, I aggregated review scores to maintain a one-row-per-order structure. Missing values, particularly for non-delivered orders, were handled by filtering only completed deliveries for delay analysis.
+
+### Candidate’s Choice Feature
+To extend the analysis, I introduced a product category-based delivery performance evaluation. By mapping each order to its dominant product category using the order items and product datasets, I identified categories with higher late delivery rates. This analysis revealed that bulky and logistics-intensive items such as furniture and home-related products are more prone to delays, providing actionable insights for targeted operational improvements.
