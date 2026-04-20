@@ -7,3 +7,9 @@ Specifically, 93% of orders were delivered on time or early, achieving an averag
 Geographic analysis indicates that delivery issues are not uniformly distributed, with certain states experiencing significantly higher delay rates, such as Alagoas (21.4%) and Maranhão (17.4%), compared to the national average. This suggests localized logistics inefficiencies rather than a systemic nationwide failure.
 
 Further analysis at the product level reveals that bulky and logistics-intensive categories, including furniture and home-related products, exhibit higher delay rates, indicating operational challenges in handling and transportation. These insights highlight critical areas for targeted logistics optimization, particularly in high-risk regions and product segments, to improve overall customer satisfaction.
+
+## B. Project Links
+
+- Notebook: [Your Colab or GitHub Notebook Link]
+- Dashboard: [Your Tableau Public Link]
+- Presentation:(https://public.tableau.com/app/profile/elliot.datsomor/viz/DeliveryPerformanceAuditImpactofLogisticsonCustomerSatisfaction/Dashboard1?publish=yes)
