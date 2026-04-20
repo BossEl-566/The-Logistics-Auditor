@@ -21,3 +21,7 @@ The dataset was sourced from multiple relational CSV files and required careful 
 
 ### Candidate’s Choice Feature
 To extend the analysis, I introduced a product category-based delivery performance evaluation. By mapping each order to its dominant product category using the order items and product datasets, I identified categories with higher late delivery rates. This analysis revealed that bulky and logistics-intensive items such as furniture and home-related products are more prone to delays, providing actionable insights for targeted operational improvements.
+
+### Feature Engineering
+Delivery performance was quantified by computing the difference between the estimated delivery date and the actual delivery date. Orders were then classified into “On Time”, “Late”, and “Super Late” categories based on delay thresholds. This enabled clearer segmentation for analysis and visualization.
+
