@@ -11,8 +11,8 @@ Further analysis at the product level reveals that bulky and logistics-intensive
 ## B. Project Links
 
 - Notebook: (https://github.com/BossEl-566/The-Logistics-Auditor.git)
-- Dashboard: [Your Tableau Public Link]
-- Presentation:(https://public.tableau.com/app/profile/elliot.datsomor/viz/DeliveryPerformanceAuditImpactofLogisticsonCustomerSatisfaction/Dashboard1?publish=yes)
+- Dashboard: (https://public.tableau.com/app/profile/elliot.datsomor/viz/DeliveryPerformanceAuditImpactofLogisticsonCustomerSatisfaction/Dashboard1?publish=yes)
+- Presentation:https://docs.google.com/presentation/d/1oJHnckgm4sydqnzLMYlXNnJ3GU6BpuNx/edit?usp=sharing&ouid=106379638841657244350&rtpof=true&sd=true
 
 ## C. Technical Explanation
 
